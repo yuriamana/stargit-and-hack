@@ -9,11 +9,6 @@ You have learned the very basics of html, css & git throughout the prework and y
 
 The focus of this lab is to introduce you to pair programming and assess what you got from the prework or if you have any prior experience.
 
-This lab has 2 iterations:
-
-1.  A front page.
-2.  Each ironhacker builds his own page in parallel
-
 This exercise will allow you to work in collaboration on your first project in which, you and another Ironhacker will present themselves !
 
 Collaborating with git is a little abstract at the start so don't worry if you struggle with it at the start, the earlier you get & resolve conflicts, the better.
@@ -61,6 +56,7 @@ Requirements:
 - Name / Surname
 - Hobbies
 
-After that, you have **_carte blanche_**.
+After that, you have **_carte blanche_**.  
+You can use javascript / css animations etc... if you already have some prior experience. :)
 
 ## Extra Resources
