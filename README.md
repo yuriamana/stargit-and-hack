@@ -49,11 +49,9 @@ Please find a screenshot of the expected results below:
 
 ### Iteration n°2
 
-Create 2 seperate html files (and maybe 2 different css files ?).
+Create 2 seperate html files (1 per hacker) in which you will need to have at least:  
 
-Requirements:
-
-- Name / Surname
+- Your name / surname
 - Hobbies
 
 After that, you have **_carte blanche_**.  
