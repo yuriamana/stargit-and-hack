@@ -15,7 +15,7 @@ Collaborating with git is a little abstract at the start so don't worry if you s
 
 ## Submission
 
-- [https://guides.github.com/activities/forking/](Fork) this repo
+- [Fork](https://guides.github.com/activities/forking/) this repo
 - Clone this repo
 - Make sure you use class and id selectors throughout your exercise. Remember, only use type selectors if you want to modify every element of that type
 - Once you are ready to turn the lab in:
